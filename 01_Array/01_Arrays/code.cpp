@@ -70,6 +70,7 @@ int main() {
   arr.input();
   arr.output();
   cout << endl;
+  cout<<"Input Function Executed"<<endl;
   cout << "sum of array = " << arr.sum() << endl;
   cout << "Average of array = " << arr.average() << endl;
 
