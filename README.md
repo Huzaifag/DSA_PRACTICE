@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+Huzaifa's+DSA+Playground;Daily+LeetCode+%2B+DSA+Practice+in+Action;Coding+with+✨+clean+logic+and+a+dash+of+swag!" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I%E2%80%99m+Huzaifa.+This+is+my+DSA+repo.;Here%2C+I+code+daily+to+sharpen+logic%2C;+prepare+for+interviews+%F0%9F%98%89" alt="Typing SVG" /></a>
 </p>
 
 ---
